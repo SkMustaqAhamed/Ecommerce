@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/skmus/Desktop/html-css-course"
+		},
+		{
+			"path": "../../js-basics"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ecommerce"
+	}
+}
